@@ -206,6 +206,6 @@ scrollbar-width: none;  /* Firefox */
 .category-dropdown-button{
   width: 10% !important;
 }
-.add-item-image{
+.add-item-image,.navbar-brand{
   cursor: pointer;
 }
