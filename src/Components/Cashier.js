@@ -60,11 +60,11 @@ const Cashier = ({items,deleteRow=null}) => {
                     <tr ref={itemsEndRef} className="ref" />
             </tbody>
             </Table>
-            <div>
+            {/* <div>
             <Button variant="primary" size="lg" block className="cashier-buy" id="cashier-buy">
                 <GiPayMoney/>&nbsp;Pay Now
             </Button>
-            </div>
+            </div> */}
         </div>
     )
 }
